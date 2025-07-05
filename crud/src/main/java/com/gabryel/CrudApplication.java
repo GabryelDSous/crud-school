@@ -1,4 +1,4 @@
-package com.gabryel.crud;
+package com.gabryel;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
